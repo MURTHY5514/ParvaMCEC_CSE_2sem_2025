@@ -1,0 +1,73 @@
+
+1. git clone "url"
+2. git status -> check the status of repo
+3. git add . -> to track the file in teh repo
+4. git commit -m "message"  -> to commit the file in the repo
+5. git push origin main -> to push code from local to remote(github)
+6. git pull origin main  -> to pull code from remote(github) to local
+
+yourname_usn_2sem_parvamcec
+
+git config --global user.email "your email"
+git config --global user.name "yourname"
+
+
+https://github.com/MURTHY5514/ParvaMCEC_CSE_2sem_2025.git
+
+
+
+g++ 1_bank_account.cpp -o bank.exe  --> to change the exe file name.
+
+
+
+https://codeshare.io/cec
+
+
+
+
+
+
+create a class "Student" mention the member attributes as name, roll_num, class_name, marks. All should be private. add public constructor to assign value and display method to display the details of student make sure print the grade using marks.
+
+if  marks > 90 and <=100 --> a+
+if marks >80 and <=90 ---> a
+if marks >70 and <=80 ---> b+
+if marks >60 and <=70 ---> b
+if marks >50 and <=60 ----> c+
+if marks >40 and <=50 -----> c
+else ---------------------->f
+
+
+Product Inventory
+Problem:
+	Create a Product class with:
+
+	Product ID, name, quantity, and price.
+
+	Constructor to initialize all fields.
+
+	Method updateStock(int quantity) to add stock.
+
+	Method calculateTotalValue() to return total stock value.
+
+Task:
+Create 3 products and print their total value after stock update.
+
+
+
+Bank Account Class
+Problem:
+	Create a BankAccount class with the following:
+
+	Data members: account number, holder name, balance.
+
+	A constructor to initialize all fields.
+
+	A method deposit(double amount) to add to balance.
+
+	A method withdraw(double amount) to subtract from balance if sufficient.
+
+	A method display() to print all details.
+	
+Task:
+Create 2 accounts and demonstrate deposit, withdraw, and display functionalities.
