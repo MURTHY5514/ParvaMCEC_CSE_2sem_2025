@@ -23,3 +23,44 @@ Types of inheritence:
 				Person
 		youtuber 		developer
 				co-devloper
+
+
+1. Single Level:
+================
+Person and Student:
+===================
+Person - name, age, weight
+Student - roll_num
+
+syntax:
+=======
+
+class child_class : access_modifier parent_class{
+	
+}
+
+ex:
+===
+class Student : public Person{
+	
+}
+
+2. Multi level Inheritence:
+===========================
+* more than one level
+
+example:
+========
+class Person - name, age, weight
+
+class Employee - emp_id
+
+class Manager - salary
+
+
+multiple:
+=========
+* More than one parent
+
+		camera                  phone
+				smart_phone

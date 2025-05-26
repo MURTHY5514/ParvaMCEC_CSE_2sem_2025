@@ -71,3 +71,24 @@ Problem:
 	
 Task:
 Create 2 accounts and demonstrate deposit, withdraw, and display functionalities.
+
+
+
+
+
+
+
+
+
+for notes:
+==========
+
+https://github.com/MURTHY5514/ParvaMCEC_CSE_2sem_2025.git
+
+
+
+git clone "url"
+
+cd ParvaMCEC_CSE_2sem_2025
+
+git pull origin main
