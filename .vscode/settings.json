@@ -3,6 +3,8 @@
         "*.html": "html",
         "*.css": "css",
         "xstring": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "string": "cpp",
+        "ostream": "cpp"
     }
 }

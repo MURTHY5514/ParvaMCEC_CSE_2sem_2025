@@ -68,9 +68,9 @@ Public Methods:
 
 Constructor: calls Person constructor using initialization list
 
-void inputTeacherDetails() → calls base method inputStudentDetails() + own input
+void inputTeacherDetails() → calls base method inputBasicDetails() + own input
 
-void displayTeacherDetails() → calls base method displayStudentDetails + own display
+void displayTeacherDetails() → calls base method displayBasicDetails + own display
 
 🧪 Example Operations:
 In the main() function:

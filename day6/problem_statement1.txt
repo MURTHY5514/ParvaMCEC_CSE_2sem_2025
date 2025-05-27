@@ -1,0 +1,72 @@
+Bank Account Management System
+🎯 Objective:
+Design a C++ application to manage different types of bank accounts using OOP concepts — specifically Inheritance, Encapsulation, and Abstraction — without using polymorphism or virtual functions.
+
+🧱 Core Requirements
+You are required to:
+
+Create a base class Account that stores common attributes of any bank account.
+
+Create two derived classes:
+
+SavingsAccount
+
+CurrentAccount
+
+Each derived class should add its own specific fields and methods.
+
+Use encapsulation to protect all fields.
+
+Abstract shared methods like input and display into the base class.
+
+📦 Class Design
+🧩 Class 1: Account (Base Class)
+Private Attributes:
+
+string accountHolderName
+
+long accountNumber
+
+double balance
+
+Public Methods:
+Constructors (default and parameterized)
+
+Getters and Setters
+
+void inputBasicDetails()
+
+void displayBasicDetails()
+
+🧩 Class 2: SavingsAccount (Derived from Account)
+Private Attributes:
+
+double interestRate
+
+Public Methods:
+
+void inputSavingsDetails() → calls base class method + its own
+
+void displaySavingsDetails() → calls base class method + its own
+
+double calculateInterest(int years) → simple interest calculation
+
+🧩 Class 3: CurrentAccount (Derived from Account)
+Private Attributes:
+
+double overdraftLimit
+
+Public Methods:
+
+void inputCurrentDetails() → base + own
+
+void displayCurrentDetails() → base + own
+
+🧪 Example Operations in main():
+Create a savings account and input all details.
+
+Create a current account and input all details.
+
+Display both accounts.
+
+Calculate interest on the savings account.
