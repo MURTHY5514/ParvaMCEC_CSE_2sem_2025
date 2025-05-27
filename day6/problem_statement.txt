@@ -1,0 +1,82 @@
+Design a basic School Management System using C++ OOP concepts where you model People involved in the school such as Students and Teachers using Inheritance, Encapsulation, and Abstraction.
+
+🧱 Core Requirements
+You are required to:
+
+Create a base class Person to hold common attributes and provide controlled access through getter and setter methods (Encapsulation).
+
+Derive two classes:
+
+Student
+
+Teacher
+Each with their own specific attributes (Inheritance).
+
+Abstract shared behaviors like input and display logic in the base class, and reuse in derived classes (Abstraction).
+
+
+📦 Class Design
+🧩 Class 1: Person (Base Class)
+Attributes(private):
+====================
+string name
+
+int age
+
+string gender
+
+Public Methods:
+===============
+Constructors:
+
+Default and Parameterized
+
+Setters and Getters for each private field
+
+void inputBasicDetails() - to take input.
+
+void displayBasicDetails() - to display details.
+
+
+🧩 Class 2: Student (Derived from Person)
+Attributes (private):
+
+int rollNumber
+
+string classGrade
+
+string section
+
+Public Methods:
+
+Constructor: calls Person constructor using initialization list
+
+void inputStudentDetails() → calls base method to get common fields + own fields
+
+void displayStudentDetails() → calls base method to display common fields + own
+
+🧩 Class 3: Teacher (Derived from Person)
+Attributes (private):
+
+int employeeId
+
+string subject
+
+string department
+
+Public Methods:
+
+Constructor: calls Person constructor using initialization list
+
+void inputTeacherDetails() → calls base method inputStudentDetails() + own input
+
+void displayTeacherDetails() → calls base method displayStudentDetails + own display
+
+🧪 Example Operations:
+In the main() function:
+
+Create and input details for a student.
+
+Create and input details for a teacher.
+
+Display both details using only class methods.
