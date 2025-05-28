@@ -7,20 +7,20 @@ Include a method named calculateArea() that outputs a general message like:
 2. Create the following derived classes:
 Circle:
 =======
-Data member: radius
+Data member(private): radius
 Override calculateArea() to compute area using π × radius²
 
 Rectangle:
 ==========
-Data members: length, width
+Data members(private): length, width
 Override calculateArea() to compute area using length × width
 
 Triangle:
 =========
-Data members: base, height
+Data members(private): base, height
 Override calculateArea() to compute area using 0.5 × base × height
 
-3. Constructor:
+3. Constructor(public):
 Each derived class must include a constructor to initialize its data members.
 
 4. In the main() function:
