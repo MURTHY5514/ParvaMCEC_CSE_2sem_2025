@@ -1,0 +1,28 @@
+1. Shape Area Calculator Using Inheritance:
+===========================================
+Create a base class named "Shape"
+Include a method named calculateArea() that outputs a general message like:
+"Area not defined for generic shape."
+
+2. Create the following derived classes:
+Circle:
+=======
+Data member: radius
+Override calculateArea() to compute area using π × radius²
+
+Rectangle:
+==========
+Data members: length, width
+Override calculateArea() to compute area using length × width
+
+Triangle:
+=========
+Data members: base, height
+Override calculateArea() to compute area using 0.5 × base × height
+
+3. Constructor:
+Each derived class must include a constructor to initialize its data members.
+
+4. In the main() function:
+Create one object of each shape.
+Call their calculateArea() method to print the area.

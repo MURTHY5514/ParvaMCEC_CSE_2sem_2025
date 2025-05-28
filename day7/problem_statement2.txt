@@ -1,0 +1,26 @@
+Employee Salary System Using Inheritance:
+=========================================
+1. Define a base class named "Employee":
+
+Attributes:
+name (string)
+id (int)
+baseSalary (float)
+
+Functions:
+calculateSalary() → prints base salary only.
+display() → prints name, id, and salary (by calling calculateSalary()).
+
+2. Create a derived class "Manager":
+Additional attribute: bonus (float)
+Override calculateSalary() → salary = baseSalary + bonus
+Override display() → prints name, id, and total salary
+
+3. Create a derived class "Developer":
+Additional attribute: overtimePay (float)
+Override calculateSalary() → salary = baseSalary + overtimePay
+Override display() → prints name, id, and total salary
+
+4. In the main() function:
+Create one Manager and one Developer object using hardcoded values.
+Call their respective display() methods to show full details and computed salaries.

@@ -1,0 +1,27 @@
+Polymorphism:
+=============
+* Many forms
+* the method or an object act different way based on the area or sutiation.
+
+2types:
+=======
+1. compile time  
+    a. method overloading
+    b. operator overloading
+
+2. run time
+    a. method overriding.
+
+method overloading:
+===================
+* same method name but different parameters.
+
+ex:
+===
+
+int add(int a, int b){
+    return a+b;
+}
+int add(int a, int b, int c){
+    return a+b+c;
+}

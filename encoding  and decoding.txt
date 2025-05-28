@@ -1,0 +1,35 @@
+Encoding AND DECODING
+----------------------
+(1)(2)(3)(4)(5)(6)(7)(8)(9)(10)(11)(12)(13)
+A   B  C  D  E  F  G  H  I   J  K   L   M
+
+(26)(25)(24)(23)(22)(21)(20)(19)(18)(17)(16)(15)(14)
+ Z    Y   X  W   V   U    T   S  R    Q  P   O   N
+
+CAT->DBU
+
+DOG->EPH
+
+
+FAN ->GBO
+JOT->KPU
+
+
+SUN->TVO+1
+MAP->NBQ
+
+KEY->LFZ
+BIG->
+----------------------------------------------------
+
+BIG->YRT    B->2+Y->25=27-2=25->Y  I->9+R->18=27-9=1
+FUN-> 27-6=21->U  27-21=6->F 27-14=13->M UFM
+
+CAT->XZG
+DOG->WLT
+
+SUN->OVT  NUS->REVERSING  THE WORD and+1
+MAP->    pam->qbn
+
+FISH->IFHS
+BARK->abkr
