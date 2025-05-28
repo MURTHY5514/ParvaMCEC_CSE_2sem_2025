@@ -2,10 +2,14 @@ Employee Salary System Using Inheritance:
 =========================================
 1. Define a base class named "Employee":
 
-Attributes(private):
+Attributes:
 name (string)
 id (int)
 baseSalary (float)
+
+Constructor(protected):
+=======================
+* to initialize the instance variables.
 
 Functions(protected):
 calculateSalary() → prints base salary only.
@@ -13,11 +17,20 @@ display() → prints name, id, and salary (by calling calculateSalary()).
 
 2. Create a derived class "Manager":
 Additional attribute(private): bonus (float)
+Constructor:
+============
+Create Constructor and call the Parent Constructor by passing parameters and initialize the remaining attributes.
+
 Override calculateSalary() → salary = baseSalary + bonus
 Override display() → prints name, id, and total salary
 
 3. Create a derived class "Developer":
 Additional attribute(private): overtimePay (float)
+
+Constructor:
+============
+Create Constructor and call the Parent Constructor by passing parameters and initialize the remaining attributes.
+
 Override calculateSalary() → salary = baseSalary + overtimePay
 Override display() → prints name, id, and total salary
 
