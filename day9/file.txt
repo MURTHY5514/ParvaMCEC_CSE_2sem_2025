@@ -1,0 +1,23 @@
+File Handling in C++:
+=====================
+
+1. what is the header file we use to handle files?.
+===================================================
+fstream(file stream)
+
+2. what is class we used to write a file?.
+==========================================
+ofstream(output file stream)
+
+3. whst is class used to read data from file?.
+==============================================
+ifstream(input file stream)
+
+
+1. put() ---> to insert a single data to a file.
+2. getline() --> to get a entire line from a file.
+3. get() --> to get a single data from a file.
+4. open() --> to open a file.
+5. close() --> to close a file.
+6. seekg() --> to move cursor in file. 
+7. tellg() --> to tell the position of cursor in a file. return int value
