@@ -1,10 +1,10 @@
 🏛 Government Registration Entities
 
-Aadhaar Number (UIDAI)
+Aadhaar Number (UIDAI) --> Team2
 
-PAN (Permanent Account Number)
+PAN (Permanent Account Number) --> Team10
 
-GSTIN (Goods and Services Tax Identification Number)
+GSTIN (Goods and Services Tax Identification Number) --> Team7
 
 CIN (Corporate Identification Number)
 
@@ -12,29 +12,29 @@ DIN (Director Identification Number)
 
 EPFO UAN (Universal Account Number)
 
-Voter ID / EPIC Number
+Voter ID / EPIC Number  ---> Team9
 
-Passport Seva Kendra Registration
+Passport Seva Kendra Registration  ---> Team 11
 
-BIS Certification Registration
+BIS Certification Registration   --> Team 13
 
 Startup India Registration
 
 MSME Udyam Registration
 
-Digital India e-Hospital ID
+Digital India e-Hospital ID  ---> Team 4
 
 DigiLocker Account
 
-eShram Card Registration
+eShram Card Registration  ---> Team12
 
 PM-KISAN Farmer Registration
 
 CSC (Common Service Center) ID
 
-Motor Vehicle Registration (RC)
+Motor Vehicle Registration (RC)  ---> Team6
 
-IRCTC User Registration
+IRCTC User Registration ---> Team3
 
 National Career Service (NCS) Registration
 

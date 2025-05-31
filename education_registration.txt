@@ -1,6 +1,6 @@
 📚 Education Registration Entities
 
-CBSE School Affiliation Number
+CBSE School Affiliation Number --->Team5
 
 UGC University Registration
 
@@ -18,15 +18,15 @@ NSDC Training Partner Registration
 
 ePravesh Online Admission Portal
 
-NEET Exam Registration ID
+NEET Exam Registration ID  --> Team8
 
-JEE Main Registration Number
+JEE Main Registration Number  - Team1
 
 NPTEL Course Registration
 
 IGNOU Admission Registration
 
-CUET Registration (Common University Entrance Test)
+CUET Registration (Common University Entrance Test) --> Team14
 
 DIKSHA Platform Teacher Registration
 
