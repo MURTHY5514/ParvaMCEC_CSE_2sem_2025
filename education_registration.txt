@@ -1,0 +1,41 @@
+📚 Education Registration Entities
+
+CBSE School Affiliation Number
+
+UGC University Registration
+
+AICTE College Approval Registration
+
+National Academic Depository (NAD)
+
+NIRF Ranking Registration
+
+DTE College Code (Directorate of Technical Education)
+
+NCVT MIS Registration (Vocational Training)
+
+NSDC Training Partner Registration
+
+ePravesh Online Admission Portal
+
+NEET Exam Registration ID
+
+JEE Main Registration Number
+
+NPTEL Course Registration
+
+IGNOU Admission Registration
+
+CUET Registration (Common University Entrance Test)
+
+DIKSHA Platform Teacher Registration
+
+SWAYAM Course Enrollment
+
+AISHE (All India Survey on Higher Education) Institute Code
+
+Teacher Eligibility Test (TET) Registration
+
+NIOS Student Registration
+
+Academic Bank of Credits (ABC ID)

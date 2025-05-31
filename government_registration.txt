@@ -1,0 +1,42 @@
+🏛 Government Registration Entities
+
+Aadhaar Number (UIDAI)
+
+PAN (Permanent Account Number)
+
+GSTIN (Goods and Services Tax Identification Number)
+
+CIN (Corporate Identification Number)
+
+DIN (Director Identification Number)
+
+EPFO UAN (Universal Account Number)
+
+Voter ID / EPIC Number
+
+Passport Seva Kendra Registration
+
+BIS Certification Registration
+
+Startup India Registration
+
+MSME Udyam Registration
+
+Digital India e-Hospital ID
+
+DigiLocker Account
+
+eShram Card Registration
+
+PM-KISAN Farmer Registration
+
+CSC (Common Service Center) ID
+
+Motor Vehicle Registration (RC)
+
+IRCTC User Registration
+
+National Career Service (NCS) Registration
+
+GEM Portal Registration (Government eMarketplace)
+
