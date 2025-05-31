@@ -6,7 +6,7 @@ IRCTC User Registration ---> Team 3
 
 Digital India e-Hospital ID  ---> Team 4
 
-CBSE School Affiliation Number --->Team 5
+Teacher Eligibility Test (TET) Registration ---> Team 5
 
 Motor Vehicle Registration (RC)  ---> Team 6
 
@@ -25,5 +25,3 @@ eShram Card Registration  ---> Team 12
 BIS Certification Registration   --> Team 13
 
 CUET Registration (Common University Entrance Test) --> Team 14
-
-
